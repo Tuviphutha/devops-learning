@@ -459,10 +459,6 @@ Có thể nhận biết:
 └──────────────────────── Permission
 ```
 
-Phần Permission sẽ được học riêng sau File & Directory.
-
----
-
 Ảnh dưới đây là kết quả thực hành các lệnh Linux Basic và kiểm tra Filesystem trên Ubuntu Server 24.04.
 
 ![Linux Basic Filesystem Lab](image/Linux-basic-files&directory_2.png)
@@ -500,6 +496,14 @@ Size   Used   Avail   Use%   Mounted on
 Máy cũng hiển thị các filesystem dạng `tmpfs`, được sử dụng cho một số vùng dữ liệu tạm thời trong hệ thống.
 
 ---
+
+Ảnh dưới đây là kết quả thực hành các lệnh Linux Basic và kiểm tra Filesystem trên Ubuntu Server 24.04.
+
+![Linux Basic Filesystem Lab](image/Linux-basic-filesystem_capacity.png)
+
+---
+
+
 
 # 10. `du -sh` – kiểm tra dung lượng Directory
 
