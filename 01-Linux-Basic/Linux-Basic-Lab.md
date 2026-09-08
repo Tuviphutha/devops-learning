@@ -650,7 +650,7 @@ app logs backup
 Lệnh `mkdir` dùng để tạo một hoặc nhiều thư mục mới từ cửa sổ dòng lệnh.
 
 
-![Linux Basic Filesystem Lab](image/linux-basic-filesystem.png)
+![Linux Basic Filesystem Lab](image/create_folders_2.png)
 
 
 ## 13.3. Tạo File
@@ -674,6 +674,8 @@ app.log cconfig.txt
 
 Lệnh `touch` dùng để tạo file trống mới hoặc cập nhật thời gian truy cập và chỉnh sửa của file sẵn có
 
+![Linux Basic Filesystem Lab](image/create_file_1.png)
+
 ## 13.4. Ghi dữ liệu vào / Đọc file
 
 ### Command
@@ -691,6 +693,7 @@ Hello DevOps
 Second liine
 ```
 
+![Linux Basic Filesystem Lab](image/write_file.png)
 
 ## 13.5. Copy file
 
@@ -703,6 +706,8 @@ cp app/config.txt backup/
 ### Nhận xét
 
 Lệnh `cp` dùng để sao chép tệp tin và thư mục từ vị trí này sang vị trí khác.
+
+![Linux Basic Filesystem Lab](image/copy&move_File.png)
 
 ## 13.6. Di chuyển / đổi tên file
 
@@ -724,6 +729,8 @@ config-prod.txt
 
 Lệnh `mv` dùng để di chuyển hoặc đổi tên tệp (file) và thư mục (folder)
 
+![Linux Basic Filesystem Lab](image/copy&move_File.png)
+
 ## 13.7. Xóa file
 
 ### Command
@@ -743,5 +750,6 @@ ls logs
 
 Lệnh `rm` dùng để xóa các tệp tin và thư mục từ dòng lệnh
 
+![Linux Basic Filesystem Lab](image/Delete_File.png)
 
 
