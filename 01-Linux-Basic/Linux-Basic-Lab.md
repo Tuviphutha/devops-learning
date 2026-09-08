@@ -629,6 +629,8 @@ cd devops-lab
 
 Lệnh `mkdir` dùng để tạo một hoặc nhiều thư mục mới từ cửa sổ dòng lệnh.
 
+![Linux Basic Filesystem Lab](image/create_folder_1.png)
+
 ## 13.2. Tạo nhiều thư mục
 
 ### Command
@@ -646,6 +648,10 @@ app logs backup
 ### Nhận xét
 
 Lệnh `mkdir` dùng để tạo một hoặc nhiều thư mục mới từ cửa sổ dòng lệnh.
+
+
+![Linux Basic Filesystem Lab](image/linux-basic-filesystem.png)
+
 
 ## 13.3. Tạo File
 
