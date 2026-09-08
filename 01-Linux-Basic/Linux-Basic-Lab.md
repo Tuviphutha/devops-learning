@@ -614,3 +614,128 @@ Logs                       ⏳
 - Kiểm tra dung lượng directory bằng `du -sh`.
 - Bắt đầu làm quen với cấu trúc Linux Server thực tế.
 
+# 13. File & Directory
+
+## 13.1. Tạo thư mục thực hành
+
+### Command
+
+```bash
+mkdir devops-lab
+cd devops-lab
+```
+
+### Nhận xét
+
+Lệnh `mkdir` dùng để tạo một hoặc nhiều thư mục mới từ cửa sổ dòng lệnh.
+
+## 13.2. Tạo nhiều thư mục
+
+### Command
+
+```bash
+mkdir app logs backup
+```
+
+### Kết quả thực tế
+
+```text
+app logs backup
+```
+
+### Nhận xét
+
+Lệnh `mkdir` dùng để tạo một hoặc nhiều thư mục mới từ cửa sổ dòng lệnh.
+
+## 13.3. Tạo File
+
+### Command
+
+```bash
+touch app/app.log
+touch app/config.txt
+touch logs/system.log
+ls app
+```
+
+### Kết quả thực tế
+
+```text
+app.log cconfig.txt
+```
+
+### Nhận xét
+
+Lệnh `touch` dùng để tạo file trống mới hoặc cập nhật thời gian truy cập và chỉnh sửa của file sẵn có
+
+## 13.4. Ghi dữ liệu vào / Đọc file
+
+### Command
+
+```bash
+echo "Hello DevOps" > app/config.txt
+echo "Second line" >> app/config.txt
+cat app/config.txt
+```
+
+### Kết quả thực tế
+
+```text
+Hello DevOps
+Second liine
+```
+
+
+## 13.5. Copy file
+
+### Command
+
+```bash
+cp app/config.txt backup/
+```
+
+### Nhận xét
+
+Lệnh `cp` dùng để sao chép tệp tin và thư mục từ vị trí này sang vị trí khác.
+
+## 13.6. Di chuyển / đổi tên file
+
+### Command
+
+```bash
+mv app/config.txt app/config-prod.txt
+ls app
+```
+
+### Kết quả thực tế
+
+```text
+app.log
+config-prod.txt
+```
+
+### Nhận xét
+
+Lệnh `mv` dùng để di chuyển hoặc đổi tên tệp (file) và thư mục (folder)
+
+## 13.7. Xóa file
+
+### Command
+
+```bash
+rm logs/system.log
+ls logs
+```
+
+### Kết quả thực tế
+
+```text
+
+```
+
+### Nhận xét
+
+Lệnh `rm` dùng để xóa các tệp tin và thư mục từ dòng lệnh
+
+
+
