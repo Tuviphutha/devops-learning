@@ -204,7 +204,7 @@ Shell là chương trình tiếp nhận và xử lý các câu lệnh người d
 
 Ảnh dưới đây là kết quả thực hành các lệnh Linux Basic và kiểm tra Filesystem trên Ubuntu Server 24.04.
 
-![Linux Basic Filesystem Lab](../images/linux-basic-filesystem..png.png)
+![Linux Basic Filesystem Lab](../image/linux-basic-filesystem..png)
 
 # 6. Linux Filesystem
 
