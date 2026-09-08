@@ -33,9 +33,6 @@ Sau khi hoàn thành phần Linux Basic, mục tiêu là có thể:
 - Ubuntu là gì?
 - Linux Server và Desktop.
 
-📄 [Introduction to Linux](01-Introduction-to-Linux.md)
-
----
 
 ## 02. Ubuntu Server
 
@@ -45,9 +42,6 @@ Sau khi hoàn thành phần Linux Basic, mục tiêu là có thể:
 - SSH.
 - Basic System Information.
 
-📄 [Ubuntu Server](02-Ubuntu-Server.md)
-
----
 
 ## 03. Linux Filesystem
 
@@ -66,9 +60,6 @@ Tìm hiểu cấu trúc:
 └── opt
 ```
 
-📄 [Linux Filesystem](03-Linux-Filesystem.md)
-
----
 
 ## 04. Directory Navigation
 
@@ -81,9 +72,6 @@ cd
 tree
 ```
 
-📄 [Directory Navigation](04-Directory-Navigation.md)
-
----
 
 ## 05. File Management
 
@@ -98,9 +86,6 @@ rm
 rmdir
 ```
 
-📄 [File Management](05-File-Management.md)
-
----
 
 ## 06. Text Processing
 
@@ -115,9 +100,6 @@ grep
 find
 ```
 
-📄 [Text Processing](06-Text-Processing.md)
-
----
 
 ## 07. Users & Permissions
 
@@ -131,9 +113,6 @@ chmod
 chown
 ```
 
-📄 [Users & Permissions](07-Users-Permissions.md)
-
----
 
 ## 08. Process Management
 
@@ -146,9 +125,6 @@ htop
 kill
 ```
 
-📄 [Process Management](08-Process-Management.md)
-
----
 
 ## 09. Package Management
 
@@ -165,9 +141,6 @@ sudo apt update
 sudo apt install nginx
 ```
 
-📄 [Package Management](09-Package-Management.md)
-
----
 
 ## 10. Service Management
 
@@ -185,9 +158,6 @@ systemctl start nginx
 systemctl stop nginx
 ```
 
-📄 [Service Management](10-Service-Systemd.md)
-
----
 
 ## 11. Network Basic
 
@@ -201,9 +171,6 @@ ss
 hostname
 ```
 
-📄 [Network Basic](11-Network-Basic.md)
-
----
 
 ## 12. System Logs
 
@@ -215,9 +182,6 @@ dmesg
 tail
 ```
 
-📄 [System Logs](12-System-Logs.md)
-
----
 
 # 🧪 Linux Basic Lab
 
@@ -235,9 +199,6 @@ Sau khi hoàn thành kiến thức nền tảng, thực hiện bài Lab tổng h
 - Kiểm tra Logs.
 - Xử lý một số lỗi cơ bản.
 
-📄 [Linux Basic Lab](lab/Linux-Basic-Lab.md)
-
----
 
 # 📈 Progress
 
