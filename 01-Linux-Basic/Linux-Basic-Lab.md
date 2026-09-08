@@ -463,6 +463,11 @@ Phần Permission sẽ được học riêng sau File & Directory.
 
 ---
 
+Ảnh dưới đây là kết quả thực hành các lệnh Linux Basic và kiểm tra Filesystem trên Ubuntu Server 24.04.
+
+![Linux Basic Filesystem Lab](image/Linux-basic-files&directory_1.png)
+
+
 # 9. `df -h` – kiểm tra dung lượng Filesystem
 
 ### Command
